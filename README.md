@@ -1,3 +1,7 @@
 # PixelUniverse
 
-test
+Benötigte Programme:
+
+GitHub
+Unity
+Visual Studio (C# Editor)
