@@ -2,6 +2,6 @@
 
 Benötigte Programme:
 
-GitHub
-Unity
+GitHub,
+Unity,
 Visual Studio (C# Editor)
